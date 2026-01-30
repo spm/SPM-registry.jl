@@ -1,0 +1,5 @@
+name = "SPM"
+uuid = "4986786f-70fa-47ee-a1e7-92359a36166a"
+repo = "https://github.com/spm/SPM-registry.jl"
+
+[packages]
