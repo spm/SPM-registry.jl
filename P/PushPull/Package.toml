@@ -1,0 +1,3 @@
+name = "PushPull"
+uuid = "474945d8-a732-43ea-9020-95184c2278ed"
+repo = "https://github.com/spm/PushPull.jl"

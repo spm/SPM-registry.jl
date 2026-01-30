@@ -3,4 +3,5 @@ uuid = "4986786f-70fa-47ee-a1e7-92359a36166a"
 repo = "https://github.com/spm/SPM-registry.jl"
 
 [packages]
+474945d8-a732-43ea-9020-95184c2278ed = { name = "PushPull", path = "P/PushPull" }
 f9835f47-1a1b-453b-a349-634eab6395af = { name = "Blip", path = "B/Blip" }
