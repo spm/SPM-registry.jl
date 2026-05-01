@@ -4,4 +4,5 @@ repo = "https://github.com/spm/SPM-registry.jl"
 
 [packages]
 474945d8-a732-43ea-9020-95184c2278ed = { name = "PushPull", path = "P/PushPull" }
+88903119-a3e4-409c-afa7-d91d08484514 = { name = "SPMmisc", path = "S/SPMmisc" }
 f9835f47-1a1b-453b-a349-634eab6395af = { name = "Blip", path = "B/Blip" }
